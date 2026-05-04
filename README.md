@@ -10,8 +10,7 @@ ChatooAI is a multi WhatsApp chatbot platform for creating, connecting, and mana
 
 ## Demo
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/v2ytRQe4EOA" title="ChatooAI demo video" frameborder="0" allowfullscreen></iframe>
-
+[![ChatooAI Demo Video](https://img.youtube.com/vi/v2ytRQe4EOA/0.jpg)](https://www.youtube.com/watch?v=v2ytRQe4EOA)
 [Watch the demo on YouTube](https://www.youtube.com/watch?v=v2ytRQe4EOA)
 
 ## What ChatooAI Does
